@@ -1,3 +1,4 @@
+# DINESH KUMAR A (212223060057)
 # EXP 3 : IIR-CHEBYSHEV-FITER-DESIGN
 
 ## AIM: 
@@ -136,4 +137,9 @@ title('Frequency Response of Chebyshev IIR High-Pass Filter');
 
 <img width="1920" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/56f2b9ce-52cb-404b-bec4-52483eb1ce88" />
 
+<img width="1920" height="1080" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/ff99ba3a-2df1-430f-ade5-80982bcd8860" />
+
+
+
 ## RESULT: 
+IIR-CHEBYSHEV-FITER-DESIGN OF LPF AND HPF IS SUCCESSFULLY EXECUTED.
